@@ -1,5 +1,5 @@
 # Banking Transaction Records Dataset
-![Banking Transaction logo](https://github.com/danielorigin/Data-Analytics-Datasets/tree/60f2cb08d4860af67c83fb5c21000e6e1bea7f0f/FINANCE%20%26%20BANKING/Finance%20%26%20Banking.png)
+![Banking Transaction logo](https://github.com/danielorigin/Data-Analytics-Datasets/blob/42fab589558d7708f2e93abfa56ec1e625909f57/FINANCE%20%26%20BANKING/Finance%20%26%20Banking.png)
 **Deposits, Withdrawals, Transfers & Compliance Data**
 
 ## About the Dataset
