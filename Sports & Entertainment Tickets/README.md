@@ -1,5 +1,5 @@
 # Sports & Entertainment Tickets Dataset
-![Sports & Entertainment logo](https://github.com/danielorigin/Data-Analytics-Datasets/blob/42fab589558d7708f2e93abfa56ec1e625909f57/FINANCE%20%26%20BANKING/Finance%20%26%20Banking.png)
+![Sports & Entertainment logo](https://github.com/danielorigin/Data-Analytics-Datasets/blob/878d6f18fc2ad261eb426d7d1535588997931c0f/Sports%20%26%20Entertainment%20Tickets/Sports%20%26%20Entertainment.jpeg)
 **Ticket Sales — Sports Matches & Entertainment Events with Attendance**
 
 ## About the Dataset
