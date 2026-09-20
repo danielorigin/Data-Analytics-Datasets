@@ -1,5 +1,6 @@
 # Synthetic Sales Transactions Dataset
-(dashboard_images/Dashboard%202-Patient%20Demographics.png)
+![Retail Sales logo](https://github.com/danielorigin/Data-Analytics-Datasets/blob/f173e8ce53ae8f2d0a97fea663dcde4753a18473/Retail%20Sales%20Dataset/retail%20sales%20transactions.png)
+
 ## About the Dataset
 
 This synthetic sales dataset was created to simulate **real-world business transactions** and provide a practical dataset for learning, analysis, visualization, and portfolio development.
