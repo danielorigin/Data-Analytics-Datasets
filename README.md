@@ -1,5 +1,5 @@
 # Data Analytics Datasets
-
+![datasets logo](https://github.com/danielorigin/Data-Analytics-Datasets/blob/056d80e42392329b1301b671e84a50388cd26cb9/Datasets%20logo.png)
 A collection of synthetic datasets created for data analytics,
 business intelligence, data visualization, SQL, Python, R,
 Power BI and Tableau projects.
